@@ -2,6 +2,8 @@
 
 Datawhale《Hello-Agents》教程的系统学习与动手实践。从手写三大 Agent 范式开始，到自研 Agent 框架，再到记忆/RAG、上下文工程与智能体通信协议（MCP / A2A / ANP），每一章的代码都亲手编写并实际运行验证。
 
+> English version: [README_EN.md](README_EN.md)
+
 ## 📚 章节内容
 
 | 章节 | 主题 | 核心内容 |
