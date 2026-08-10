@@ -1,0 +1,22 @@
+# 虚拟环境（体积大，不入库）
+venv/
+.venv/
+*/venv/
+*/venv/*
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 密钥与配置文件（含 API Key，严禁入库）
+.env
+*.env
+.env.*
+!.env.example
+
+# 系统与编辑器
+.DS_Store
+*.log
+.idea/
+.vscode/
